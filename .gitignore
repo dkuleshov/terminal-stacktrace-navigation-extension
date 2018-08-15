@@ -1,0 +1,8 @@
+node_modules
+.idea
+.vscode
+.browser_modules
+lib
+*.log
+*-app/*
+!*-app/package.json
